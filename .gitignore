@@ -3,3 +3,12 @@ Thumbs.db
 *.bak
 .DS_Store
 
+# .vscode/
+*.o
+*.a
+*.s
+/boot/bootsect
+/boot/setup
+/tools/system
+Image
+System.map
